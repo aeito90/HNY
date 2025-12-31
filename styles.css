@@ -1,0 +1,18 @@
+html {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.txt {
+    text-align: center;
+    color: #2d8fff;
+    font-size: 56px;
+    justify-content: center;
+    margin-top: 20rem;
+}
+
+body {
+    background-color: #c5e0ff;
+}
